@@ -1,4 +1,4 @@
-#Resposive Tailwind Election Page🎞📨
+#Resposive Tailwind Election Page📨
 
 **A clean and responsive informational page about elections, built using Tailwind CSS. **
 
